@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/contador-clics-react/static/css/main.deceb2de.css",
+    "main.js": "/contador-clics-react/static/js/main.809c36bc.js",
+    "static/media/freecodecamp-logo.png": "/contador-clics-react/static/media/freecodecamp-logo.5486935b905c7949600c.png",
+    "index.html": "/contador-clics-react/index.html",
+    "main.deceb2de.css.map": "/contador-clics-react/static/css/main.deceb2de.css.map",
+    "main.809c36bc.js.map": "/contador-clics-react/static/js/main.809c36bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.deceb2de.css",
+    "static/js/main.809c36bc.js"
+  ]
+}
